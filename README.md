@@ -1,2 +1,2 @@
 # lightbox
-Lightbox created with the original jQuery plugin.
+Lightbox created with jQuery plugin.
